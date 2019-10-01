@@ -26,22 +26,23 @@ All communication should happen through [Canvas](https://canvas.uw.edu/courses/1
 
 Below, are the contents for each class day.
 
-| Date   | Material |
-| :----: | -------- |
-| 9/25 | Welcome to the Server-Side |
-| |<a href="https://drstearns.github.io/tutorials/http/">The HyperText Transfer Protocol</a>|
-| |<a href="https://drstearns.github.io/tutorials/env/">Environment Variables</a>|
-| |<a href="https://drstearns.github.io/tutorials/gointro/">Introduction to Go</a>|
-| |<a href="https://drstearns.github.io/tutorials/golang/">The Go Language</a>|
-| |<a href="https://drstearns.github.io/tutorials/goweb/">Go Web Servers</a>|
-| |[!! Exercise](https://classroom.github.com/a/xmK63R0n)|
-| 9/30 | Go Web Services |
-| |<a href="https://drstearns.github.io/tutorials/goslicemap/">Go Slices and Maps</a>|
-| |<a href="https://drstearns.github.io/tutorials/gojson/">Go Structs and JSON</a>|
-| |<a href="https://drstearns.github.io/tutorials/cors/">Cross-Origin Resource Sharing</a>|
-| |<a href="https://drstearns.github.io/tutorials/tokenizing/">Tokenizing HTML Streams</a>|
-| |[!! Assignment (summary branch)](https://classroom.github.com/a/xmK63R0n))|
-| |[!! Exercise](https://classroom.github.com/a/W3AI9d2L)|
+| Date  | Material                                                                                  |
+| :---: | ----------------------------------------------------------------------------------------- |
+| 9/25  | Welcome to the Server-Side                                                                |
+|       | <a href="https://drstearns.github.io/tutorials/http/">The HyperText Transfer Protocol</a> |
+|       | <a href="https://drstearns.github.io/tutorials/env/">Environment Variables</a>            |
+|       | <a href="https://drstearns.github.io/tutorials/gointro/">Introduction to Go</a>           |
+|       | <a href="https://drstearns.github.io/tutorials/golang/">The Go Language</a>               |
+|       | <a href="https://drstearns.github.io/tutorials/goweb/">Go Web Servers</a>                 |
+|       | [!! Exercise](https://classroom.github.com/a/xmK63R0n)                                    |
+| 9/30  | Go Web Services                                                                           |
+|       | <a href="https://drstearns.github.io/tutorials/goslicemap/">Go Slices and Maps</a>        |
+|       | <a href="https://drstearns.github.io/tutorials/gojson/">Go Structs and JSON</a>           |
+|       | <a href="https://drstearns.github.io/tutorials/cors/">Cross-Origin Resource Sharing</a>   |
+|       | <a href="https://drstearns.github.io/tutorials/tokenizing/">Tokenizing HTML Streams</a>   |
+|       | [!! Assignment (summary branch)](https://classroom.github.com/a/xmK63R0n))                |
+|       | [!! Exercise](https://classroom.github.com/a/W3AI9d2L)                                    |
+|       | [Lab 1 stuff](https://github.com/kwokwilliam/info441labs/tree/master/lab1)                |
 
 <!---| LAB  | How to 411? | --->
 <!---
